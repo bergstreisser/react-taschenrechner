@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/eact-taschenrechner/static/css/main.95899055.css",
-    "main.js": "/eact-taschenrechner/static/js/main.6e5755ff.js",
-    "index.html": "/eact-taschenrechner/index.html",
-    "main.95899055.css.map": "/eact-taschenrechner/static/css/main.95899055.css.map",
-    "main.6e5755ff.js.map": "/eact-taschenrechner/static/js/main.6e5755ff.js.map"
+    "main.css": "/react-taschenrechner/static/css/main.95899055.css",
+    "main.js": "/react-taschenrechner/static/js/main.6e5755ff.js",
+    "index.html": "/react-taschenrechner/index.html",
+    "main.95899055.css.map": "/react-taschenrechner/static/css/main.95899055.css.map",
+    "main.6e5755ff.js.map": "/react-taschenrechner/static/js/main.6e5755ff.js.map"
   },
   "entrypoints": [
     "static/css/main.95899055.css",
