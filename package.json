@@ -2,7 +2,7 @@
   "name": "react-taschenrechner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gitname.github.io/eact-taschenrechner",
+  "homepage": "https://gitname.github.io/react-taschenrechner",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
