@@ -3,16 +3,16 @@
     padding: 0;
 }
 
-.header {
-    padding: 20px;
-    width: 100%;
-    background-color: #4a2a2a;
-    color: #fff;
-}
+// .header {
+//     padding: 20px;
+//     width: 100%;
+//     background-color: #4a2a2a;
+//     color: #fff;
+// }
 
 .display {
-    width: 430px;
-    height: 150px;
+    width: 500px;
+    height: 200px;
     color: #ccc5c5;
     background-color: #604949;
     font-size: 30px;
@@ -21,12 +21,12 @@
 }
 
 .display h3 {
-    margin: 10px;
-    padding-top: 80px;
+    margin: 20px;
+    padding-top: 130px;
 }
 
 .rechner {
-    width: 430px;
+    width: 500px;
     color: #ccc5c5;
     background-color: #4a2a2a;
     font-size: 30px;
@@ -40,8 +40,8 @@ table {
 }
 
 td {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     cursor: pointer;
     border: 1px;
     border-style: dashed;

@@ -5,7 +5,6 @@ import Rechner from "./components/Rechner";
 function App() {
   return (
     <div className="App">
-      <Header />
       <Rechner />
     </div>
   );
