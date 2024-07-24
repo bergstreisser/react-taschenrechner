@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eact-taschenrechner/static/css/main.95899055.css",
+    "main.js": "/eact-taschenrechner/static/js/main.6e5755ff.js",
+    "index.html": "/eact-taschenrechner/index.html",
+    "main.95899055.css.map": "/eact-taschenrechner/static/css/main.95899055.css.map",
+    "main.6e5755ff.js.map": "/eact-taschenrechner/static/js/main.6e5755ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95899055.css",
+    "static/js/main.6e5755ff.js"
+  ]
+}
